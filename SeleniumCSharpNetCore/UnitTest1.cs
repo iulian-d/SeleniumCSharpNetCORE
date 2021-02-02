@@ -27,7 +27,7 @@ namespace SeleniumCSharpNetCore
 
             CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo", "Almond");
 
-            Console.WriteLine("Test1");
+           // Console.WriteLine("Test1");
             Assert.Pass();
         }
     }
